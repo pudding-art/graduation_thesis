@@ -1,3 +1,5 @@
+test no fast forward.
+
 test win 
 
 Creating a new branch is quick & simple.
