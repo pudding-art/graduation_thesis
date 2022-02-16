@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test bug branch.
+>>>>>>> 117c57c (fixed bug)
+=======
+fix bug
 >>>>>>> 117c57c (fixed bug)
 
 test no fast forward.
