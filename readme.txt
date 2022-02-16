@@ -1,3 +1,4 @@
+test branch collapse
 Creating a new branch is quick & simple.
 Using switch instruction to Creating a branch.
 Creating a new branch is quick.
