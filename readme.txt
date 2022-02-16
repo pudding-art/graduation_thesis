@@ -1,3 +1,4 @@
+Using switch instruction to Creating a branch.
 Creating a new branch is quick.
 git is a distributed version control system.
 git is a free software distributed under the GPL.
